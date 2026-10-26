@@ -1,0 +1,17 @@
+{
+  "name": "Huonville Primary School Assessment System",
+  "short_name": "HPS Assessment",
+  "description": "Huonville Primary School student assessment, grading and report-card system.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1B2A4A",
+  "theme_color": "#1B2A4A",
+  "icons": [
+    { "src": "icons/favicon-64.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
